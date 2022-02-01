@@ -7,3 +7,7 @@ I have taken consideration of below points:
 - Name of the period in each game (Quarter)
 - Current game status and game period
 - Different type of scoring points based on each quarter and points scored by home team and away team
+
+
+Test:
+Run the Java main class and give user input through console
